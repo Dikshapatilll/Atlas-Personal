@@ -1,0 +1,20 @@
+# Python dependencies
+fastapi
+uvicorn
+pandas
+python-dotenv
+supabase
+openpyxl
+
+# Node.js dependencies (for documentation only, install with npm)
+# react
+# react-dom
+# react-router-dom
+# recharts
+# xlsx
+# @google/genai
+# vite
+# concurrently
+# npm-run-all
+# typescript
+# @types/node

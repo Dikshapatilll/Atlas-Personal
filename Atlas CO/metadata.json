@@ -1,0 +1,5 @@
+{
+  "name": "SolidWorks QA Reporting Portal",
+  "description": "An advanced portal to upload, analyze, and visualize SolidWorks QA reports. It helps track part numbers with issues like missing extensions, surface bodies, or invalid formats, providing charts and a management interface to improve quality over time. Includes an AI chatbot for data insights.",
+  "requestFramePermissions": []
+}
